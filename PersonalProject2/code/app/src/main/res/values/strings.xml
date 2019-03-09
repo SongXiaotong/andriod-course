@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week6</string>
+    <string name="title">肉</string>string>
+    <string name="foodname">牛奶</string>
+    <string name="appwidget_text">当前没有消息</string>
+    <string name="add_widget">Add widget</string>string>
+</resources>

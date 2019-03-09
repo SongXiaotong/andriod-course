@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExperimentOne</string>
+    <string name="headline1">中山大学智慧健康服务平台</string>
+    <string name="search_line">请输入搜索内容</string>
+    <string name="search">搜索</string>
+    <string name="picture">图片</string>
+    <string name="video">视频</string>
+    <string name="qa">问答</string>
+    <string name="news">资讯</string>
+    <string name="sysu">sysu</string>
+
+    <string name="alerr">提示</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">httpapi</string>
+    <string name="search">搜索</string>
+    <string name="input">input user_id</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">storage2</string>
+    <string name="login_choice">login</string>
+    <string name="register_choice">register</string>
+    <string name="newpassword_hint">New Password</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="confirmpassword_hint">Confirm Password</string>
+    <string name="ok_button">OK</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="send">send</string>
+</resources>
